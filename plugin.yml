@@ -1,0 +1,13 @@
+main: map.main.Main
+name: GetSolution
+version: 0.1
+
+commands:
+    graph:
+        description: wtf
+    vertex:
+        description: wtf
+    edge:
+        description: wtf
+    distance:
+        description: wtf

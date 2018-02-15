@@ -38,7 +38,7 @@ public class distance implements CommandExecutor{
 	
 	public void help(CommandSender sender) {
 		
-		sender.sendMessage("/distance <graph> get <vertex> <anothervertex> ­pºâ¨âÂI¤§¶¡ªº¶ZÂ÷");
+		sender.sendMessage("/distance <graph> get <vertex> <anothervertex> è¨ˆç®—å…©é»ä¹‹é–“çš„è·é›¢");
 		
 	}
 	

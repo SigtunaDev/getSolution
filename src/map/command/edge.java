@@ -44,8 +44,8 @@ public class edge implements CommandExecutor {
 
 	public void help(CommandSender sender) {
 
-		sender.sendMessage("/edge <graph> create <vertex> <vertexs> ·s¼W¸ô½u");
-		sender.sendMessage("/edge <graph> remove <vertex> <vertex> §R°£¸ô½u");
+		sender.sendMessage("/edge <graph> create <vertex> <vertexs> æ–°å¢žè·¯ç·š");
+		sender.sendMessage("/edge <graph> remove <vertex> <vertex> åˆªé™¤è·¯ç·š");
 
 	}
 

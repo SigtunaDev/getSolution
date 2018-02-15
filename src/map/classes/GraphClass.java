@@ -18,7 +18,7 @@ public class GraphClass {
 		
 		if(checkExist(name) == true) {
 			
-			player.sendMessage("µL¦V¹Ï " + name + " ¤w¦s¦b!");
+			player.sendMessage("ç„¡å‘åœ– " + name + " å·²å­˜åœ¨!");
 			
 			return;
 			
@@ -30,7 +30,7 @@ public class GraphClass {
 		
 		plugin.reload();
 		
-		player.sendMessage("³Ğ«ØµL¦V¹Ï " + name + " ¦¨¥\!");
+		player.sendMessage("å‰µå»ºç„¡å‘åœ– " + name + " æˆåŠŸ!");
 		
 	}
 	
@@ -38,7 +38,7 @@ public class GraphClass {
 		
 		if(checkExist(name) == false) {
 			
-			player.sendMessage("µL¦V¹Ï " + name + " ¤£¦s¦b");
+			player.sendMessage("ç„¡å‘åœ– " + name + " ä¸å­˜åœ¨");
 			
 			return;
 			
@@ -48,7 +48,7 @@ public class GraphClass {
 		
 		plugin.reload();
 		
-		player.sendMessage("§R°£µL¦V¹Ï " + name + " ¦¨¥\");
+		player.sendMessage("åˆªé™¤ç„¡å‘åœ– " + name + " æˆåŠŸ");
 		
 	}
 	

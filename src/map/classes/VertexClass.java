@@ -29,7 +29,7 @@ public class VertexClass {
 		
 		plugin.reload();
 		
-		player.sendMessage("¤w·s¼WÂI" + c + "!¡A®y¼Ğ¬°:" + location);
+		player.sendMessage("å·²æ–°å¢é»" + c + "!ï¼Œåº§æ¨™ç‚º:" + location);
 		
 	}
 	
@@ -65,11 +65,11 @@ public class VertexClass {
 		
 		if(find == false) {
 			
-			player.sendMessage("¦b³o±iµL¦V¹Ï§ä¤£¨ì³o­ÓÂI¡G" + vertex);
+			player.sendMessage("åœ¨é€™å¼µç„¡å‘åœ–æ‰¾ä¸åˆ°é€™å€‹é»ï¼š" + vertex);
 			
 		}else {
 			
-			player.sendMessage("§ó·s¦¨¥\¡A±N " + vertex + " ÂI§ó·s¦¨ " + location);
+			player.sendMessage("æ›´æ–°æˆåŠŸï¼Œå°‡ " + vertex + " é»æ›´æ–°æˆ " + location);
 			
 		}
 		

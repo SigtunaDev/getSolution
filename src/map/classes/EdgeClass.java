@@ -19,11 +19,11 @@ public class EdgeClass {
 			if (checkExist(graph, vertex, vertexs.charAt(i)) == false) {
 
 				list.add(vertex.toUpperCase() + String.valueOf(vertexs.charAt(i)).toUpperCase());
-				player.sendMessage("·s¼W¸ô½u: " + vertex + vertexs.charAt(i));
+				player.sendMessage("æ–°å¢è·¯ç·š: " + vertex + vertexs.charAt(i));
 
 			}else {
 				
-				player.sendMessage("ÂĞ»\¸ô½u: " + vertex + vertexs.charAt(i));
+				player.sendMessage("è¦†è“‹è·¯ç·š: " + vertex + vertexs.charAt(i));
 				
 			}
 			
@@ -33,7 +33,7 @@ public class EdgeClass {
 
 		plugin.reload();
 
-		player.sendMessage("·s¼W¸ô½u¦¨¥\!");
+		player.sendMessage("æ–°å¢è·¯ç·šæˆåŠŸ!");
 
 	}
 
@@ -81,11 +81,11 @@ public class EdgeClass {
 
 		if (find == true) {
 
-			player.sendMessage("§R°£¸ô½u " + (vertex + anothervertex) + " ¦¨¥\");
+			player.sendMessage("åˆªé™¤è·¯ç·š " + (vertex + anothervertex) + " æˆåŠŸ");
 
 		} else {
 
-			player.sendMessage("³o±ø¸ô½u¤£¦s¦b: " + (vertex + anothervertex));
+			player.sendMessage("é€™æ¢è·¯ç·šä¸å­˜åœ¨: " + (vertex + anothervertex));
 
 		}
 

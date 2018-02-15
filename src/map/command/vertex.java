@@ -45,8 +45,8 @@ public class vertex implements CommandExecutor{
 	public void help(CommandSender sender) {
 		
 		sender.sendMessage("------------------------------------");
-		sender.sendMessage("/vertex <graph> add ·s¼W¤â¤W«üµÛªºÂI");
-		sender.sendMessage("/vertex <graph> set <vertex> ³]¸mÂIªº·s®y¼Ğ");
+		sender.sendMessage("/vertex <graph> add æ–°å¢æ‰‹ä¸ŠæŒ‡è‘—çš„é»");
+		sender.sendMessage("/vertex <graph> set <vertex> è¨­ç½®é»çš„æ–°åº§æ¨™");
 		sender.sendMessage("------------------------------------");
 		
 	}

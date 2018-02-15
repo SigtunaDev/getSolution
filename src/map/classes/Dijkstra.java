@@ -98,7 +98,7 @@ public class Dijkstra {
 			
 			public void run() {
 				
-				player.sendMessage("­pºâ§¹¦¨! Á`¶ZÂ÷¬°: " + distance[end] + " ¤½¤Ø");
+				player.sendMessage("è¨ˆç®—å®Œæˆ! ç¸½è·é›¢ç‚º: " + distance[end] + " å…¬å°º");
 				
 			}
 			
